@@ -1,8 +1,8 @@
-=========================================
 Project Description
-=========================================
 
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
+
+
 You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 The problem is solved in different steps which are listed below:
@@ -15,9 +15,9 @@ The problem is solved in different steps which are listed below:
 6. Making prediction using final Model
 7. Model Evaluation
 
-=========================================
+
 Dataset characteristics
-=========================================	
+
 day.csv have the following fields:
 	
 	- instant: record index
@@ -41,28 +41,7 @@ day.csv have the following fields:
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
 	
-=========================================
-License
-=========================================
-Use of this dataset in publications must be cited to the following publication:
 
-[1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
-
-@article{
-	year={2013},
-	issn={2192-6352},
-	journal={Progress in Artificial Intelligence},
-	doi={10.1007/s13748-013-0040-3},
-	title={Event labeling combining ensemble detectors and background knowledge},
-	url={http://dx.doi.org/10.1007/s13748-013-0040-3},
-	publisher={Springer Berlin Heidelberg},
-	keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},
-	author={Fanaee-T, Hadi and Gama, Joao},
-	pages={1-15}
-}
-
-=========================================
 Contact
-=========================================
 	
-For further information about this dataset please contact Hadi Fanaee-T (hadi.fanaee@fe.up.pt)
+For further information about this dataset please contact jayasingh0742-coder.
